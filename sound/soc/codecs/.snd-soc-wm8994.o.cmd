@@ -1,1 +1,0 @@
-cmd_sound/soc/codecs/snd-soc-wm8994.o := /home/fuss132/cm10/sources/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o sound/soc/codecs/snd-soc-wm8994.o sound/soc/codecs/wm8994_samsung.o sound/soc/codecs/wm8994_n1.o 

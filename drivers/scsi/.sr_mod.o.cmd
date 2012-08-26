@@ -1,1 +1,0 @@
-cmd_drivers/scsi/sr_mod.o := /home/fuss132/cm10/sources/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/scsi/sr_mod.o drivers/scsi/sr.o drivers/scsi/sr_ioctl.o drivers/scsi/sr_vendor.o 

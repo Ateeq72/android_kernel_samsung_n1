@@ -1,1 +1,0 @@
-cmd_drivers/misc/fm_si4709/Si4709_driver.ko := /home/fuss132/cm10/sources/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL -r  -T /home/fuss132/galaxyr/kernel/scripts/module-common.lds --build-id  -o drivers/misc/fm_si4709/Si4709_driver.ko drivers/misc/fm_si4709/Si4709_driver.o drivers/misc/fm_si4709/Si4709_driver.mod.o

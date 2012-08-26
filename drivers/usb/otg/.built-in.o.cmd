@@ -1,1 +1,0 @@
-cmd_drivers/usb/otg/built-in.o :=  /home/fuss132/cm10/sources/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/usb/otg/built-in.o drivers/usb/otg/otg.o drivers/usb/otg/otg_id.o drivers/usb/otg/tegra-otg.o drivers/usb/otg/ulpi.o drivers/usb/otg/ulpi_viewport.o 
