@@ -1,0 +1,1 @@
+cmd_drivers/video/backlight/built-in.o :=  /home/fuss132/cm10/sources/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/video/backlight/built-in.o drivers/video/backlight/lcd.o drivers/video/backlight/backlight.o drivers/video/backlight/cmc623_pwm_bl.o 
